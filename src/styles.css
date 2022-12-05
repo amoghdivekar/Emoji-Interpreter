@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 1rem;
+}
+
+input {
+  width: 50%;
+  height: 3rem;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: lightblue;
+  padding: 1rem;
+}
+
+.App-input {
+  color: black;
+}
+
+footer {
+  text-align: right;
+  padding-top: 2rem;
+}
